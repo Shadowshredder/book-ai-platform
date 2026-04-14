@@ -95,11 +95,24 @@ The AI layer is integrated using Hugging Face Transformers, where a summarizatio
 ---
 ## 📸 Screenshots
 
-![](images/img1.png)
-![](images/img2.png)
-![](images/img3.png)
-![](images/img4.png)
-![](images/img5.png)
+### 1. Get Books
 
+![](images/img1.png)
+
+### 2. Add Book
+
+![](images/img2.png)
+
+### 3. Book Detail
+
+![](images/img3.png)
+
+### 4. Summary
+
+![](images/img4.png)
+
+### 5. Ask Question
+
+![](images/img5.png)
 
 ---
